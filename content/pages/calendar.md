@@ -7,31 +7,224 @@ uid: b2ad72c2-b955-be4e-14b3-6140b9187b23
 Lecture Outline
 ---------------
 
-| LEC # | TOPICS |
-| --- | --- |
-| I | Continuum Mechanics: Stress and Strain |
-| II | Material Behaviours |
-| III |  {{< br >}}{{< br >}} _Brittle Deformation_ {{< br >}}{{< br >}} (A) Fracture Mechanics {{< br >}}{{< br >}} (B) Faults {{< br >}}{{< br >}}  |
-|  | Mid Term |
-| IV |  {{< br >}}{{< br >}} _Ductile Deformation_ {{< br >}}{{< br >}} (A) Mechanics {{< br >}}{{< br >}} (B) Folding  {{< br >}}(i) Descriptive Material  {{< br >}}(ii) Mechanics  {{< br >}}(iii) Related Structures  {{< br >}}(iv) Foliations and Lineations  {{< br >}}(v) Strain Analysis {{< br >}}{{< br >}} (C) Multiple Deformations {{< br >}}{{< br >}}  |
-| V | Plutons, Salt Tectonics |
-| VI | Regional Tectonics 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I
+{{< tdclose >}}
+{{< tdopen >}}
+Continuum Mechanics: Stress and Strain
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II
+{{< tdclose >}}
+{{< tdopen >}}
+Material Behaviours
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Brittle Deformation_
+
+(A) Fracture Mechanics
+
+(B) Faults
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mid Term
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IV
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Ductile Deformation_
+
+(A) Mechanics
+
+(B) Folding  
+(i) Descriptive Material  
+(ii) Mechanics  
+(iii) Related Structures  
+(iv) Foliations and Lineations  
+(v) Strain Analysis
+
+(C) Multiple Deformations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+V
+{{< tdclose >}}
+{{< tdopen >}}
+Plutons, Salt Tectonics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VI
+{{< tdclose >}}
+{{< tdopen >}}
+Regional Tectonics
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
 Lab Outline
 -----------
 
-| LAB # | Topics |
-| --- | --- |
-| I | Stress |
-| II | Strain |
-|  | Lab Field Trip to Beavertail, PT, RI |
-| III | Techniques of Structural Geology I: 3D Geometries |
-| IV | Techniques of Structural Geology II: Cross-sections |
-| V | Faults |
-| VI | Folds |
-| VII | Fabrics: Lineations and Foliations |
-| VIII | Classic Structural Environments I: Fold and Thrust Belts |
-| IX | Classic Structural environments II: High Grade Gneiss Terranes |
-| X | Classic Structural environments III: Extensional Environments
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LAB #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I
+{{< tdclose >}}
+{{< tdopen >}}
+Stress
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II
+{{< tdclose >}}
+{{< tdopen >}}
+Strain
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Field Trip to Beavertail, PT, RI
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III
+{{< tdclose >}}
+{{< tdopen >}}
+Techniques of Structural Geology I: 3D Geometries
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IV
+{{< tdclose >}}
+{{< tdopen >}}
+Techniques of Structural Geology II: Cross-sections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+V
+{{< tdclose >}}
+{{< tdopen >}}
+Faults
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VI
+{{< tdclose >}}
+{{< tdopen >}}
+Folds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VII
+{{< tdclose >}}
+{{< tdopen >}}
+Fabrics: Lineations and Foliations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VIII
+{{< tdclose >}}
+{{< tdopen >}}
+Classic Structural Environments I: Fold and Thrust Belts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IX
+{{< tdclose >}}
+{{< tdopen >}}
+Classic Structural environments II: High Grade Gneiss Terranes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+Classic Structural environments III: Extensional Environments
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
