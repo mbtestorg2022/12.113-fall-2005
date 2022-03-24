@@ -125,9 +125,9 @@ Folds
 
 ([PDF 1]({{< baseurl >}}/resources/lab_folds))
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/l8_handout))
+([PDF 2]({{< baseurl >}}/resources/l8_handout))
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 3]({{< baseurl >}}/resources/l8_exercises))
+([PDF 3]({{< baseurl >}}/resources/l8_exercises))
 
 
 {{< tdclose >}}
