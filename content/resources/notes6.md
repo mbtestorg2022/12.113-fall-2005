@@ -4,6 +4,7 @@ description: 'This file contains notes for the topics: Failure Criteria, Cohesiv
   Materials, Effect of pore fluid pressures.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-113-structural-geology-fall-2005/f75d0868edb51673fa092577921ffd06_notes6.pdf
 file_type: application/pdf
+parent_uid: 2afd4e30-a936-7424-a008-56cdd627f3cf
 resourcetype: Document
 title: notes6.pdf
 uid: f75d0868-edb5-1673-fa09-2577921ffd06

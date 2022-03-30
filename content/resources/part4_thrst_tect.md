@@ -8,6 +8,7 @@ description: 'These notes cover the following topics: Jargon, Geometry, general 
   overthrusts.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-113-structural-geology-fall-2005/b2c89b7268b73720ee3c9fbffbbb0be8_part4_thrst_tect.pdf
 file_type: application/pdf
+parent_uid: 2afd4e30-a936-7424-a008-56cdd627f3cf
 resourcetype: Document
 title: part4_thrst_tect.pdf
 uid: b2c89b72-68b7-3720-ee3c-9fbffbbb0be8
